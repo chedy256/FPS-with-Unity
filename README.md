@@ -1,2 +1,2 @@
 # FPS with Unity
- by:chedyamineelhaj
+a quick project i haven't checked it in a while (maybe considred as first 3D project)
