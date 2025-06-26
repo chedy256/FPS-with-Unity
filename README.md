@@ -1,2 +1,4 @@
 # FPS with Unity
-a quick project i haven't checked it in a while (maybe considred as first 3D project)
+A quick project I haven't checked it in a while (maybe considred as first 3D project)
+
+This repo is out of date but didn't finish the full game 
